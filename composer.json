@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Swow\\StubUtils": "src/"
+            "Swow\\StubUtils\\": "src/"
         }
     },
     "config": {
